@@ -5,5 +5,5 @@
 </p>
 
 <h1 align="center"> Sobre o Projeto 👨🏻‍💻</h1>
-<h1 align="center">Jogo-AdivinhacaoPython</h1>
+<h3 align="center">Jogo-AdivinhacaoPython</h3>
 <p align="center">Um jogo de adivinhação básico de testes utilizando linguagem Python.</p>
