@@ -24,13 +24,12 @@
 
   As seguintes ferramentas foram usadas na construção do projeto:
 
-  - [x] **HTML**
-  - [x] **CSS**
+  - [x] **Python**
 
   #### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
-  - [**BOOTSTRAP**](https://getbootstrap.com/)
+  - [**Pycharme**](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
 
 <br>
 
