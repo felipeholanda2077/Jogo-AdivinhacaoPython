@@ -29,7 +29,7 @@
   #### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
-  - [**Pycharme**](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
+  - [**PyCharm**](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
 
 <br><h1></h1>
 
